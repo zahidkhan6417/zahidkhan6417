@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zahid</h1>
 <h3 align="center">A passionate Front-end React developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zahidkhan6417" alt="zahidkhan6417" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/zahidkhan6417" target="blank"><img src="https://img.shields.io/twitter/follow/zahidkhan6417?logo=twitter&style=for-the-badge" alt="zahidkhan6417" /></a> </p>
 
 - 🌱 I’m currently learning **Node.js, Redux, AWS Services**
